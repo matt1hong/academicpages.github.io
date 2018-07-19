@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "A day in the life of Americans: a data comic"
+excerpt: ""Is this how I live my life? How am I different?"<br/><br/><img src='/images/portfolio1.png'>"
 collection: portfolio
+date: 2018-02-22
+permalink: '/portfolio/comics/1'
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img src='/images/portfolio1.png'>
