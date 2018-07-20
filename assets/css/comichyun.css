@@ -1,0 +1,11 @@
+@font-face {
+font-family: "Comic Hyun";
+src: url("../fonts/comichyunnatural-regular-webfont.eot");
+src: 
+  url("../fonts/comichyunnatural-regular-webfont.eot") format("embedded-opentype"),
+  url("../fonts/comichyunnatural-regular-webfont.woff") format("woff"),
+  url("../fonts/comichyunnatural-regular-webfont.ttf") format("truetype"),
+  url("../fonts/comichyunnatural-regular-webfont.svg#filename") format("svg");
+     font-weight: normal;
+    font-style: normal;
+}

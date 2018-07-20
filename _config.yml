@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Matt Hong"
 title_separator          : "-"
 name                     : &name "Matt Hong"
 description              : &description "Computer scientist, Northwestern University"

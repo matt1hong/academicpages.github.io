@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Matt"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,9 +16,9 @@ redirect_from:
 
 I am a computer scientist specializing in *Information Visualization* (mentored under [Steve Franconeri](http://visualthinking.psych.northwestern.edu/people.html)) and *Tangible, Embedded, and Embodied Interaction* (mentored under [Mike Horn](http://tidal.northwestern.edu/people/mikehorn/)). 
 
-Since 2012, I have also worked for professors in various other areas, including Medieval Anthropology ([Matthew Johnson](https://www.anthropology.northwestern.edu/people/faculty/johnson.html)), Network Analysis ([Luis Amaral](https://amaral.northwestern.edu/people/amaral/)), and Computer-Assisted Journalism ([Rich Gordon](http://www.medill.northwestern.edu/directory/faculty/rich-gordon.html)). I am a former Design Editor at [The Daily Northwestern](https://dailynorthwestern.com/) and a former Fellow at the [Knight News Innovation Lab](https://knightlab.northwestern.edu/).
+Since 2012, I have also worked for professors in various other areas, including Medieval Anthropology ([Matthew Johnson](https://www.anthropology.northwestern.edu/people/faculty/johnson.html)), Network Analysis ([Luis Amaral](https://amaral.northwestern.edu/people/amaral/)), and Journalism ([Rich Gordon](http://www.medill.northwestern.edu/directory/faculty/rich-gordon.html)). I am a former Design Editor at [The Daily Northwestern](https://dailynorthwestern.com/) and a former Fellow at the [Knight News Innovation Lab](https://knightlab.northwestern.edu/).
 
-Broadly speaking, I am interested in how humans utilize tools to facilitate our collective "construction of reality." This includes the use of numbers and graphs, computer interfaces, maps, social narratives, and architecture.
+Broadly speaking, I am interested in how humans utilize tools to facilitate our collective "construction of reality." This includes the use of numbers and graphs, computer interfaces, maps, social narratives, and music.
 
 Born in Seoul, Korea, I moved to Singapore at age 11, and then to Westchester, NY at age 15. I am an American citizen and currently split time between Honolulu and New York City. I practice Brazilian Jiu-Jitsu at the [Renzo Gracie Academy](http://www.renzogracie.com/), and am an avid soccer fan. 
 
