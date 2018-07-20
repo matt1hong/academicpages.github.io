@@ -11,47 +11,54 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* M.S. Computer Science, **Northwestern University**, 2016
+  * Specialization: Human-Computer Interaction
+  * Advisors: Oliver Cossairt, Michael Horn
+* B.A. Mathematics, **Northwestern University**, 2016
+  * Specialization: Probability Theory
+  * Advisors: Michael Stein, Steven Franconeri
+* Study Abroad, **University of Southampton**, 2013
+  * Specialization: Medieval Archaeology
+  * Advisor: Matthew H. Johnson
+* Qualified Associate Certification, **Tableau Software**
 
-Work experience
+Research positions
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* **Visual Thinking Lab**, PI: Steven Franconeri
+  * 2013-16
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Knight Lab**, PI: Rich Gordon
+  * 2014-15
+
+* **Amaral Lab**, PI: Luis Amaral
+  * 2012-13
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* _Programming_: Python (Flask, data analytics), JavaScript (React.js, Node.js, D3.js), HTML, CSS, C#, Java
+* _Design_: Adobe Photoshop, Illustrator, InDesign, Tableau
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}
   </ul>
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Employment
 ======
-* Currently signed in to 43 different slack teams
+* Full-stack Software Engineer, **My.Suit**
+  * 2016-2017
+* Data Visualization Developer, **The Blackstone Group**
+  * 2016
+* Design Editor, **The Daily Northwestern**
+  * 2012
