@@ -51,5 +51,13 @@
     font-weight: 1000;
     font-size: 36px;
     font-family: "Comic Hyun";
+
+      a {
+        color: $masthead-underline-color !important;
+
+        &:hover {
+          color: $title-color !important;
+        }
+      }
   }
 }
