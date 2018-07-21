@@ -1,7 +1,6 @@
 ---
 title: "MiLa: An Audiovisual Instrument for Learning the Curwen Hand Signs"
 collection: publications
-permalink: /files/mila.pdf
 date: 2016-05-07
 authors: <b>Matt Hong</b>, William Hicks, Michael Horn
 venue: 'CHI Extended Abstracts'
