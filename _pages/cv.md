@@ -58,7 +58,7 @@ Employment
 ======
 * Full-stack Software Engineer, **My.Suit**
   * 2016-2017
-* Data Visualization Developer, **The Blackstone Group**
+* Data Visualization Developer, **Blackstone Group (Chicago)**
   * 2016
 * Design Editor, **The Daily Northwestern**
   * 2012
