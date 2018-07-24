@@ -1,0 +1,11 @@
+@font-face {
+font-family: "NaturalHyun";
+src: url("../fonts/NaturalHyun.eot");
+src: 
+  url("../fonts/NaturalHyun.eot") format("embedded-opentype"),
+  url("../fonts/NaturalHyun.woff") format("woff"),
+  url("../fonts/NaturalHyun.ttf") format("truetype"),
+  url("../fonts/NaturalHyun.svg#filename") format("svg");
+     font-weight: normal;
+    font-style: normal;
+}
