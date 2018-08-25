@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Matt Hong"
 title_separator          : "-"
-name                     : &name "Matt Hyun Hong"
-description              : &description "Computer scientist, Northwestern University"
+name                     : &name "Matt Ian Hong"
+description              : &description "Computer scientist, Northwestern University. Matt Hyun Young Hong."
 url                      : http://matthong.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "matt1hong/matt1hong.github.io"
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Matt Hyun Hong"
+  name             : "Matt Ian Hong"
   avatar           : "profile.png"
   bio              : "Lighthearted HCI (InfoVis/TEI)"
   location         : 
