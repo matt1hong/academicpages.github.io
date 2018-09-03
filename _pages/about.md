@@ -22,6 +22,6 @@ Broadly speaking, I am interested in how humans utilize tools to facilitate our 
 
 Born in Seoul, Korea, I moved to Singapore at age 11, and then to Westchester, NY at age 15. I am an American citizen and currently split time between Honolulu and New York City. I practice Brazilian Jiu-Jitsu at the [Renzo Gracie Academy](http://www.renzogracie.com/), and am an avid soccer fan. 
 
-I have worked as a data visualization consultant, and am a certified Tableau Desktop developer. I have also worked as a Full-Stack Software Engineer at various fun startups selling consumer goods (dormitory supplies, cold-brew coffee, suits).
+I am a certified Tableau Desktop developer, and open to freelance work. I have also worked as a Full-Stack Software Engineer at various fun startups selling consumer goods (dormitory supplies, cold-brew coffee, suits).
 
 ![Franconeri, Hong, Kosara, Haroz](images/viscog.jpg)
