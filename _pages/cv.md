@@ -63,7 +63,7 @@ Employment
 * Data Visualization Designer, **Blackstone Market Research**
   * 2016
 
-Leadership
+Campus leadership
 ======
 * Technology Manager, **Northwestern Student Holdings**
   * 2014-2016
