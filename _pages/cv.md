@@ -27,9 +27,6 @@ Research positions
 * **Visual Thinking Lab**, PI: Steven Franconeri
   * 2013-16
 
-* **Knight Lab**, PI: Rich Gordon
-  * 2014-15
-
 * **Amaral Lab**, PI: Luis Amaral
   * 2012-13
   
@@ -62,6 +59,8 @@ Employment
   * 2016-
 * Data Visualization Designer, **Blackstone Market Research**
   * 2016
+* Student Fellow, **Knight Lab**
+  * 2014-15
 
 Campus leadership
 ======
