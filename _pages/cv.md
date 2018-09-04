@@ -62,5 +62,10 @@ Employment
   * 2016-
 * Data Visualization Designer, **Blackstone Market Research**
   * 2016
+
+Leadership
+======
+* Technology Manager, **Northwestern Student Holdings**
+  * 2014-2016
 * Design Editor, **The Daily Northwestern**
   * 2012
