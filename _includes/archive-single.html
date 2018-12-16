@@ -58,6 +58,9 @@
     {% if post.paperpdf %}
       <a href="{{ post.paperpdf }}">[<u>Paper PDF</u>]</a>
     {% endif %}
+    {% if post.demo %}
+      <a href="{{ post.demo }}">[<u>Demo video</u>]</a>
+    {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
