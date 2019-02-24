@@ -20,8 +20,8 @@ Since 2012, I have also worked for professors in various other areas, including 
 
 Broadly speaking, I am interested in how humans utilize tools to facilitate our collective "construction of reality." This includes the use of numbers and graphs, computer interfaces, maps, social narratives, and music.
 
-Born in Seoul, Korea, I moved to Singapore at age 11, and then to Westchester, NY at age 15. I obtained American citizenship in 2016 and currently reside in Brooklyn, NY. I practice yoga at Usha Veda, and train Brazilian Jiu-Jitsu under Dominyka Obelenyte. 
+Born in Seoul, Korea, I moved to Singapore at age 11, and then to Westchester, NY at age 15. I obtained American citizenship in 2016 and currently reside in Brooklyn, NY. I practice yoga at [Usha Veda](http://www.ushavedayoga.com/), and train Brazilian Jiu-Jitsu under [Dominyka Obelenyte](https://hindscombatsports.com/about-us/). 
 
-I am a certified Tableau Desktop developer, and open to freelance work. I currently work at Blenderbox as part of a team developing MySchools.nyc, the parent portal for New York City public schools.
+I am a certified Tableau Desktop developer, and open to freelance work. I currently work at [Blenderbox](https://blenderbox.com) as part of a team developing [MySchools.nyc](http://www.myschools.nyc), the parent portal for New York City public schools.
 
 ![Franconeri, Hong, Kosara, Haroz](images/viscog.jpg)
