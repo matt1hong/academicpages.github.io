@@ -20,8 +20,8 @@ Since 2012, I have also worked for professors in various other areas, including 
 
 Broadly speaking, I am interested in how humans utilize tools to facilitate our collective "construction of reality." This includes the use of numbers and graphs, computer interfaces, maps, social narratives, and music.
 
-Born in Seoul, Korea, I moved to Singapore at age 11, and then to Westchester, NY at age 15. I am an American citizen and currently split time between Honolulu and New York City. I practice Brazilian Jiu-Jitsu at the [Renzo Gracie Academy](http://www.renzogracie.com/), and am an avid soccer fan. 
+Born in Seoul, Korea, I moved to Singapore at age 11, and then to Westchester, NY at age 15. I obtained American citizenship in 2016 and currently reside in Brooklyn, NY. I practice yoga at Usha Veda, and train Brazilian Jiu-Jitsu under Dominyka Obelenyte. 
 
-I am a certified Tableau Desktop developer, and open to freelance work. I have also worked as a Full-Stack Software Engineer at various fun startups selling consumer goods (dormitory supplies, cold-brew coffee, suits).
+I am a certified Tableau Desktop developer, and open to freelance work. I currently work at Blenderbox as part of a team developing MySchools.nyc, the parent portal for New York City public schools.
 
 ![Franconeri, Hong, Kosara, Haroz](images/viscog.jpg)

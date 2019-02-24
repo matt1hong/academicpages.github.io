@@ -32,7 +32,8 @@ Research positions
   
 Skills
 ======
-* _Programming_: Python (Flask, data analytics), JavaScript (React.js, Node.js, D3.js), HTML, CSS, C#, Java
+* _Programming_: Python (Django, Flask, data analytics), JavaScript (React.js, Node.js, D3.js), HTML, CSS
+* _Tech_: SQL, Amazon AWS, Docker, Git
 * _Design_: Adobe Photoshop, Illustrator, InDesign, Tableau
 
 Publications
@@ -53,6 +54,8 @@ Teaching
   
 Employment
 ======
+* Django Developer, **Blenderbox, Inc.**
+  * 2018-
 * Full-stack Software Engineer, **My.Suit**
   * 2016-2017
 * Co-founder & Data Visualization Developer, **Data Vinci, LLC**
